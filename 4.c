@@ -13,7 +13,9 @@ int main() {
     }
 
     printf("The if statement is easy.");
+    printf("i added a statement");
 
     return 0;
     
 }
+
