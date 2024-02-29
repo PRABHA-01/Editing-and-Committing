@@ -13,6 +13,12 @@ int main() {
     }
 
     printf("The if statement is easy.");
-
+if (test expression) {
+    // run code if test expression is true
+}
+else {
+    // run code if test expression is false
+}
     return 0;
+    
 }
